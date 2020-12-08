@@ -5,6 +5,8 @@
 /ATMsimulation/App_Data/*
 /ATMsimulation/App_Start/*
 /ATMsimulation/bin/*
+/.vs/*
+
 
 ATMSimulation.csproj
 ATMsimulation.csproj.user
