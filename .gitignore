@@ -9,6 +9,7 @@
 /ATMsimulation/obj/*
 /ATMsimulation/Properties/*
 
+/ATMsimulation/Views/Web.config
 
 ATMSimulation.csproj
 ATMsimulation.csproj.user
