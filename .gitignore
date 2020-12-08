@@ -6,6 +6,7 @@
 /ATMsimulation/App_Start/*
 /ATMsimulation/bin/*
 /.vs/*
+/ATMsimulation/obj/*
 
 
 ATMSimulation.csproj
