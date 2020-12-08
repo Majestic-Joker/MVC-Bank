@@ -1,3 +1,14 @@
 /ATMsimulation.Tests/*
 /packages/*
 /ATMsimulation/Scripts/*
+
+ATMSimulation.csproj
+ATMsimulation.csproj.user
+favicon.ico
+Global.asax
+Global.asax.cs
+packages.config
+Startup.cs
+Web.config
+Web.Debug.config
+Web.Release.config
