@@ -1,6 +1,7 @@
 /ATMsimulation.Tests/*
 /packages/*
 /ATMsimulation/Scripts/*
+/ATMsimulation/Migrations
 
 ATMSimulation.csproj
 ATMsimulation.csproj.user
