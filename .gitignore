@@ -2,6 +2,9 @@
 /packages/*
 /ATMsimulation/Scripts/*
 /ATMsimulation/Migrations
+/ATMsimulation/App_Data/*
+/ATMsimulation/App_Start/*
+/ATMsimulation/bin/*
 
 ATMSimulation.csproj
 ATMsimulation.csproj.user
